@@ -54,7 +54,7 @@
 #         st.header("Spam")
 #     else:
 #         st.header("Not Spam")
-pip install nltk
+
 from tracemalloc import stop
 import streamlit as st
 import numpy as np
