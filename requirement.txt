@@ -3,7 +3,7 @@ numpy
 pandas
 re
 string
-nltk
+nltk==3.6.2
 nltk.corpus
 nltk.tokenize
 stopwords
